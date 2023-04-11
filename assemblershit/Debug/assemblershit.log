@@ -1,0 +1,5 @@
+﻿  assemblershit.cpp
+C:\Users\Арт\source\repos\Assembler\assemblershit\assemblershit\assemblershit.cpp(168,6): warning C4101: row: неиспользованная локальная переменная
+C:\Users\Арт\source\repos\Assembler\assemblershit\assemblershit\assemblershit.cpp(271,6): warning C4101: row: неиспользованная локальная переменная
+C:\Users\Арт\source\repos\Assembler\assemblershit\assemblershit\assemblershit.cpp(350,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  assemblershit.vcxproj -> C:\Users\Арт\source\repos\Assembler\assemblershit\Debug\assemblershit.exe
